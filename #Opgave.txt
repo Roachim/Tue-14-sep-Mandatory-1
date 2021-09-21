@@ -1,0 +1,16 @@
+
+## Create a system of 3 servers connected to eacher other.
+## At least 2 different languages must be used to make the servers (Python, HTML, Java)
+## Using different transfer languages (XML, CSV, JSON) have a number go between the servers
+## Starting from the first server: send a number to the second server
+## The number must be mltiplied by 2 when going to the first server
+## the  number will then be multiplied by 3 when reaching the third server
+## It will then be returned to the first server.
+##
+##
+##
+##
+##
+##
+##
+##
